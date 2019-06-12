@@ -1,5 +1,5 @@
 ## Grab Computer Vision Challenge-Cars Classification
-Car classifier is built using transfer learning technique. By fine tuning the pretrained CNN - Inception-ResnetV2, the model performance is able to reach the maximum accuracy **83.40%**, F1 score **83.40%** and error rate **0.677** on test set.
+Car classifier is built using transfer learning technique. By fine tuning the pretrained CNN - Inception-ResnetV2, the model performance is able to reach the maximum accuracy-**83.40%**, F1 score-**83.40%** and error rate-**0.677** on test set.
 
 ### Model Implementation
 Model training is done and demonstrated in [car_classifier.ipynb](https://github.com/vincenttang96/car-classification/blob/master/car_classifier.ipynb). Data acquire, preprocessing, model implementation and training results could be found under this notebook.
